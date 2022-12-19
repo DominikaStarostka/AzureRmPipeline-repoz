@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'Dominika-AzureRmPipeline-rg'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/DominikaStarostka/AzureRmPipeline-repoz/main/CreateWebApp2/linked2.json'
+    csmFileLink: 'https://raw.githubusercontent.com/DominikaStarostka/AzureRmPipeline-repoz/main/CreateWebApp2/main2.json'
     overrideParameters: '-projectName DominikaArmPipe'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
