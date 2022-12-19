@@ -20,6 +20,6 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/DominikaStarostka/AzureRmPipeline-repoz/main/CreateWebApp2/main2.json'
-    overrideParameters: '-projectName DominikaArmPipe'
+    overrideParameters: '-projectName intern-training-dominika'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
